@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "next-auth": "^3.29.10"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
